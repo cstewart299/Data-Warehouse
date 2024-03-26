@@ -6,3 +6,4 @@ This repository contains:
 2. Detailed Dimension Modeling
 3. High Level Dimension Modeling
 4. Project Presentation
+5. SQL Query
